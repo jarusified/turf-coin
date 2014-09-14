@@ -1,0 +1,11 @@
+html{
+	padding:0;
+	border: 0;
+}
+body{
+  background: url('/img/4041.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
